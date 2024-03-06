@@ -1,10 +1,9 @@
-package web.service;
+package com.pantyukhinn.crud_spring_boot.service;
 
+import com.pantyukhinn.crud_spring_boot.dao.UserDAO;
+import com.pantyukhinn.crud_spring_boot.model.User;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import web.dao.UserDAO;
-
-import web.model.User;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package web.model;
+package com.pantyukhinn.crud_spring_boot.model;
 
+import jakarta.persistence.*;
 
-import javax.persistence.*;
 
 @Entity
 @Table(name="users")

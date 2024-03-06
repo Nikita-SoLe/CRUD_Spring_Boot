@@ -1,6 +1,8 @@
-package web.dao;
+package com.pantyukhinn.crud_spring_boot.dao;
 
-import web.model.User;
+
+
+import com.pantyukhinn.crud_spring_boot.model.User;
 
 import java.util.List;
 

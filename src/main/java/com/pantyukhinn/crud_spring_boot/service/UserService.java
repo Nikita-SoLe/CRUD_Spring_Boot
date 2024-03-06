@@ -1,6 +1,7 @@
-package web.service;
+package com.pantyukhinn.crud_spring_boot.service;
 
-import web.model.User;
+import com.pantyukhinn.crud_spring_boot.model.User;
+
 import java.util.List;
 
 public interface UserService {
